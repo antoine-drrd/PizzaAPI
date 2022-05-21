@@ -1,0 +1,4 @@
+pizza_id,name,vegetarian,price,toppings
+0,margarita,TRUE,12.50,Mozzarella;Tomatoes;Basil
+1,meatlovers,FALSE,15.75,Mozzarella;Tomatoes;Beef;Chicken;Oregano;Ham;Lamb
+2,vegedream,TRUE,14.50,Mozzarella;Buffala;Cream;Artichoke;Pepper;ChiliFlakes;Honey;Rucola
